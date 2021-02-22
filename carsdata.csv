@@ -1,0 +1,16 @@
+﻿Model,Engine,SC/Turbo,Weight,Fuel Economy,Fast
+M1,Small,No,Average,Good,No
+M2,Small,No,Light,Average,No
+M3,Small,Yes,Average,Bad,Yes
+M4,Medium,No,Heavy,Bad,Yes
+M5,Large,No,Average,Bad,Yes
+M6,Medium,No,Light,Bad,No
+M7,Large,Yes,Heavy,Bad,No
+M8,Large,No,Heavy,Bad,No
+M9,Medium,Yes,Light,Bad,Yes
+M10,Large,No,Average,Bad,Yes
+M11,Small,No,Light,Good,No
+M12,Small,No,Average,Average,No
+M13,Medium,No,Heavy,Bad,No
+M14,Small,Yes,Average,Average,No
+M15,Medium,No,Average,Bad,No
